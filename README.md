@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**dushka-ctrlx/dushka-ctrlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ¡Hola! Soy Dushka
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería de Sistemas y Computación en la Universidad de los Andes, Colombia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Bienvenido/a a mi perfil de GitHub! 
+
+Soy una estudiante apasionada por la tecnología, la programación y el aprendizaje constante. Me interesa explorar nuevas herramientas, desarrollar soluciones creativas y fortalecer mis habilidades en el mundo de la computación.
+
+Sobre mí:
+🎓 Estudio Ingeniería de Sistemas y Computación en la Universidad de los Andes.
+💻 Me interesa el desarrollo de software y la tecnología.
+🌱 Siempre estoy aprendiendo algo nuevo y buscando nuevos retos.
+🧩 Me gusta resolver problemas y convertir ideas en proyectos.
+✨ Este perfil es mi espacio para compartir proyectos, prácticas y mi crecimiento como desarrolladora.
+🛠️ Tecnologías y herramientas
+
+
+Estas son algunas de las tecnologías que estoy aprendiendo y explorando:
+Lenguajes de programación: Python
+Git y GitHub
+Desarrollo de software
+
+-Conecta conmigo
+ GitHub: @dushka-ctrlx
+
+⭐ Gracias por visitar mi perfil. ¡Siempre hay algo nuevo por aprender y construir!
